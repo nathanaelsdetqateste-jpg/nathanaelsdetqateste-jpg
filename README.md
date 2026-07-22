@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanael-henrique-souza-nunes-256499330/)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Development+Engineer+in+Test+(SDET)"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=700&lines=Software+Development+Engineer+in+Test+(SDET)" />
   <br/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMncxMzc4eXkwejUzcGR2ZTFkYXUzNmdweWNzZ3JsZWhyYXdmOGk5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p>
