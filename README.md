@@ -51,12 +51,12 @@
 
 <br/>
 
-![DDD](https://img.shields.io/badge/DDD-Domain--Driven%20Design-6B7280?style=for-the-badge)
-![BDD](https://img.shields.io/badge/BDD-Behavior--Driven%20Development-6B7280?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Design%20Principles-6B7280?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-4B5563?style=for-the-badge)
+![BDD](https://img.shields.io/badge/BDD-4B5563?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-4B5563?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-4B5563?style=for-the-badge)
-![POM](https://img.shields.io/badge/POM-Page%20Object%20Model-4B5563?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-Model--View--Controller-4B5563?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-4B5563?style=for-the-badge)
+![POM](https://img.shields.io/badge/POM-4B5563?style=for-the-badge)
 ![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-4B5563?style=for-the-badge)
 
 ## CI/CD:
