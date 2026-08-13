@@ -47,6 +47,14 @@
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-005571?style=for-the-badge)
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-005571?style=for-the-badge)
 
+## Automation & Architecture:
+
+<br/>
+
+![SOLID](https://img.shields.io/badge/SOLID-4B5563?style=for-the-badge)
+![Clean Code](https://img.shields.io/badge/Clean%20Code-4B5563?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4B5563?style=for-the-badge)
+
 ## Bancos de dados:
 
 <br/>
