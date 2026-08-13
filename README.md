@@ -45,6 +45,7 @@
 ![Integration Testing](https://img.shields.io/badge/Integration%20Testing-005571?style=for-the-badge)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-005571?style=for-the-badge)
 ![Functional Testing](https://img.shields.io/badge/Functional%20Testing-005571?style=for-the-badge)
+![Non-Functional Testing](https://img.shields.io/badge/Non--Functional%20Testing-005571?style=for-the-badge)
 ![Regression Testing](https://img.shields.io/badge/Regression%20Testing-005571?style=for-the-badge)
 
 ## Architecture & Development Practices:
