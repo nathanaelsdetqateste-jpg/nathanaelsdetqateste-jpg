@@ -55,6 +55,12 @@
 ![Clean Code](https://img.shields.io/badge/Clean%20Code-4B5563?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4B5563?style=for-the-badge)
 
+## CI/CD:
+
+<br/>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
 ## Bancos de dados:
 
 <br/>
