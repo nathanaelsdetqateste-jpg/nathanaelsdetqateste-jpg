@@ -36,6 +36,17 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+## Testing & QA:
+
+<br/>
+
+![E2E Testing](https://img.shields.io/badge/E2E%20Testing-005571?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-005571?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/Integration%20Testing-005571?style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-005571?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional%20Testing-005571?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression%20Testing-005571?style=for-the-badge)
+
 ## Bancos de dados:
 
 <br/>
